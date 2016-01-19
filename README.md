@@ -15,7 +15,7 @@ to your browser by using an HTTP Header.
 
 ## Installation and Usage
 
-Download the plugin from google [chrome extensions](https://github.com/dhtml). Once you have installed the plugin (and it is enabled).
+Download the plugin from google [chrome extensions](https://chrome.google.com/webstore/detail/dhtmlconsole/jojehgiefnbpeljgiofpdmmdeklckbdd). Once you have installed the plugin (and it is enabled).
 
 You can open your devtools console and click on "dhtmlconsole".
 
@@ -46,6 +46,7 @@ dhtmlconsole("World");
 ?>
 ```
 
+You will find more [sample codes here](http://github.com/dhtml/dhtmlconsole)
 
 ### Author
 
