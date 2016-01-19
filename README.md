@@ -46,7 +46,7 @@ dhtmlconsole("World");
 ?>
 ```
 
-You will find more [sample codes here](http://github.com/dhtml/dhtmlconsole)
+You will find more [sample codes here](https://github.com/dhtml/dhtmlconsole/archive/master.zip)
 
 ### Author
 
