@@ -31,6 +31,21 @@ header('X-DHTML-CONSOLE-MSG: Hello World');
 ```
 There is only one rule for the header: it must start with X-DHTML-CONSOLE
 
+As of version 0.3, you can now do javaScript alerts
+```php
+<?php
+header('X-DHTML-CONSOLE-MSG: alert:Hello World');
+?>
+```
+
+
+As of version 0.3, you can clear the console from server by:
+```php
+<?php
+header('X-DHTML-CONSOLE-MSG: -clear-');
+?>
+```
+
 For sending multiple messages via PHP, here is a function for that:
 ```php
 <?php
